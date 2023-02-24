@@ -1,0 +1,2 @@
+Sử dụng MySQL, chạy file mysql.sql trong folder Database
+Thay mật khẩu trong file Controller.MyConnect bằng mật khẩu máy dùng để vào mysql;
